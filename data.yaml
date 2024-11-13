@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Human', 'animal-human-detection']
+
+roboflow:
+  workspace: majeed-0edkj
+  project: camouflage-xy3zl
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/majeed-0edkj/camouflage-xy3zl/dataset/5
