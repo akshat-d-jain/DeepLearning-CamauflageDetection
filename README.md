@@ -27,9 +27,6 @@ The project uses the **YOLO11** object detection model, which is trained on our 
 4. **Validation and Testing**: Assessing model accuracy on validation and test images.
 5. **Real-World Simulation**: Testing the model with new images from the internet that simulate realistic conditions.
 
-The workflow diagram below describes the entire process from setup to testing.
-
-![Workflow Diagram]("C:/Users/aksha/Downloads/Untitled diagram-2024-11-13-001103.png")  
 
 ## Key Features
 - **YOLO11 Implementation**: Employing a state-of-the-art deep learning model to handle complex camouflage detection tasks.
