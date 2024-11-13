@@ -29,7 +29,7 @@ The project uses the **YOLO11** object detection model, which is trained on our 
 
 The workflow diagram below describes the entire process from setup to testing.
 
-![Workflow Diagram](link-to-your-workflow-diagram.png)  
+![Workflow Diagram]("C:\Users\aksha\Downloads\Untitled diagram-2024-11-13-001103.png")  
 
 ## Key Features
 - **YOLO11 Implementation**: Employing a state-of-the-art deep learning model to handle complex camouflage detection tasks.
