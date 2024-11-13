@@ -1,5 +1,3 @@
-Here's a sample README file for your GitHub repository:
-
 ---
 
 # Enhanced Detection of Camouflaged Soldiers in Natural Environments Using YOLO11
